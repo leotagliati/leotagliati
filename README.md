@@ -1,6 +1,6 @@
 # leotagli
 
-* 👨‍🎓 Hello there! I'm Leonardo Tagliati da Silva, Computer Engineering student at MAUA Institute of Tecnology.
+* 👨‍🎓 Hello there! I'm Leonardo Tagliati da Silva, Computer Engineering student at MAUÁ Institute of Tecnology.
 
 * 👾 Passionate about digital game development, actively engaging in various projects that explore creativity and technical skills in the area.
 
