@@ -1,60 +1,46 @@
-<h2 align="left">Greetings, Traveler! 🧙‍♂️</h2>
+## 🌟 **Sobre mim**  
+Olá! Sou um desenvolvedor apaixonado por **engenharia de software** e **jogos digitais**, com foco em **backend** e **sistemas robustos**. Minha jornada começou em 2019 e, desde então, venho explorando a tecnologia em busca de novos conhecimentos e conquistas.
 
-###
+- 🎓 **Estudante de Engenharia de Computação** no Instituto Mauá de Tecnologia.  
+- 🕹️ Desenvolvedor de jogos na **Nawat Games** e entusiasta de **Game Development**.  
+- 📜 Certificações: **Lean Six Sigma Green Belt**, **Inglês Avançado**.
 
-<p align="left">A devoted artisan of the digital realms, crafting immersive experiences from the heart of Brazil! 🏰</p>
+---
 
-###
+## ⚔️ **Habilidades**  
+### Linguagens de Programação  
+![C#](https://img.shields.io/badge/-C%23-blue) ![Java](https://img.shields.io/badge/-Java-orange) ![Python](https://img.shields.io/badge/-Python-yellow)
 
-<h2 align="left">🐉Tecnologies:</h2>
+### Ferramentas e Tecnologias  
+![Unity](https://img.shields.io/badge/-Unity-black) ![MySQL](https://img.shields.io/badge/-MySQL-blue)
 
-###
+### Outras Competências  
+**Planejamento e Desenvolvimento de Projetos**.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</div>
+---
 
-###
+## 🏰 **Projetos em Destaque**  
+- **[Criador de Personagem em Java](https://github.com/leotagliati/Medieval-Character-Creator)**  
+  Um sistema dinâmico de personalização de personagens, com integração cliente-servidor e criptografia.  
 
-<h2 align="left">💀Contacts:</h2>
+- **[Wordle Foursome Edition](https://github.com/leotagliati/WordleGame)**  
+  Um jogo em que você precisa encontrar 4 palavras secretas.
+  
+---
 
-###
+## 📖 **O que estou aprendendo**  
+- Implementação de algoritmos como **A\*** e estruturas avançadas como **árvores de decisão**.  
+- Desenvolvimento de jogos com elementos narrativos e mecânicas inovadoras.
 
-<div align="left">
-  <a href="https://www.instagram.com/leonaart_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="leotagliati56@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/leotagliati/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+---
 
-###
+## 🎯 **Meus objetivos**  
+- Consolidar minha expertise como **Engenheiro de Software** e criar jogos que inspirem e emocionem.
 
-<h2 align="left">📊Github Stats:</h2>
+---
 
-###
+## 🏹 **Entre em contato!**  
+- **LinkedIn**: [Leonardo Tagliati](https://www.linkedin.com/in/leotagliati/)  
+- **E-mail**: leotagliati56@gmail.com  
 
-<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDJydDN4YzRyZ2Jkc2V0eThybnE2anA0eWhnejE4eW1tNnlkd3JyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AQRapWCgC7dThyVEYb/giphy.gif"  />
 
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=leotagliati&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leotagliati&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
