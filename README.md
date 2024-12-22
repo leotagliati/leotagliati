@@ -25,6 +25,9 @@ Olá! Sou um desenvolvedor apaixonado por **engenharia de software** e **jogos d
 
 - **[Wordle Foursome Edition](https://github.com/leotagliati/WordleGame)**  
   Um jogo em que você precisa encontrar 4 palavras secretas.
+
+- **[Sword of Obsessia](https://pluma-studio.itch.io/sword-of-obsessia)**  
+  Um jogo sobre a épica jornada do cavaleiro com uma espada amaldiçoada. Atravesse a masmorra e supere seus desafios.
   
 ---
 
