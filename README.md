@@ -12,7 +12,7 @@ Olá! Sou um desenvolvedor apaixonado por **engenharia de software** e **jogos d
 ![C#](https://img.shields.io/badge/-C%23-blue) ![Java](https://img.shields.io/badge/-Java-orange) ![Python](https://img.shields.io/badge/-Python-green) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 
 ### Ferramentas e Tecnologias  
-![Unity](https://img.shields.io/badge/-Unity-purple) ![MySQL](https://img.shields.io/badge/-MySQL-blue) ![React](https://img.shields.io/badge/React-red) 
+![Unity](https://img.shields.io/badge/-Unity-purple) ![MySQL](https://img.shields.io/badge/-MySQL-blue) ![React](https://img.shields.io/badge/React-red) ![Tailwind](https://img.shields.io/badge/Tailwind-cyan) 
 
 ### Outras Competências  
 **Planejamento e Desenvolvimento de Projetos**.
