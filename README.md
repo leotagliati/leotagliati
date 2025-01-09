@@ -45,6 +45,7 @@ Olá! Sou um desenvolvedor apaixonado por **engenharia de software** e **jogos d
 
 ## 🏹 **Entre em contato!**  
 - **LinkedIn**: [Leonardo Tagliati](https://www.linkedin.com/in/leotagliati/)  
-- **E-mail**: leotagliati56@gmail.com  
+- **E-mail**: leotagliati56@gmail.com
+- **Portfolio: [link](https://leotagliati.github.io/Portfolio/)**
 
 
